@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **42**
+- 💬 Ask me about **42 Ecole**
 
 - 📫 How to reach me **alkanumut848@gmail.com**
 
