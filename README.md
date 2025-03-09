@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Neuravoid&label=Profile%20views&color=0e75b6&style=flat" alt="Neuravoid" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Deep Learning**
 
-- 💬 Ask me about **Machine Learning and Statistics**
+- 💬 Ask me about **Machine Learning/Statistics/Deep Learning**
 
 - 📫 How to reach me **alkanumut848@gmail.com**
 
