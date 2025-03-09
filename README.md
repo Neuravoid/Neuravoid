@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umut</h1>
-<h3 align="center">Junior year of Statistic. Passionate about AI</h3>
+<h3 align="center">Junior year of Statistics at Marmara University. Passionate about AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Neuravoid&label=Profile%20views&color=0e75b6&style=flat" alt="Neuravoid" /> </p>
 
